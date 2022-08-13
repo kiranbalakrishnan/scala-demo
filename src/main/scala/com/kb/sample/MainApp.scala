@@ -6,7 +6,7 @@ trait sample{
   }
 }
 
-object MainApp {
+object MainApp extends sample {
 
   def main(args: Array[String]): Unit = {
 
