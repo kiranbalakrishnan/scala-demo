@@ -2,7 +2,7 @@ package com.kb.sample
 
 trait sample{
   def print(): Unit ={
-    println("Hello")
+    println("Hello World")
   }
 }
 
